@@ -54,7 +54,7 @@ async def add_employee (employee: EmployeeModel):
     }
     
 @app.get("/get-employee")
-async def get_book(id_emp: int):
+async def get_emp_by_id(id_emp: int):
     for employee in EMPLOYEE_DATABASE:
         if employee["id"] == id_emp:
             return employee
