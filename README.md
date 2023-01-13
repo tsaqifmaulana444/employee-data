@@ -13,6 +13,7 @@ Fake employee data, create and read operation available here, for educational pu
 You need to install some python library
 ```bash
   pip install fastapi
+  pip install uvicorn
 ```
 run the server
 ```python
