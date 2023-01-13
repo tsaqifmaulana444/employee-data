@@ -24,8 +24,5 @@ run the server
 ## Authors
 - [@maulana](https://www.github.com/tsaqifmaulana444)
 
-
-<div style="display: flex;">
 ![Logo](https://img.shields.io/badge/lang-python-blue)
 ![logo](https://img.shields.io/badge/framework-fastapi-yellow)
-</div>
